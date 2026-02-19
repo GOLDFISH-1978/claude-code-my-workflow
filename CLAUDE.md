@@ -102,7 +102,7 @@ Same thresholds apply to paper drafts and companion slides.
 
 | Paper | Status | Journal Target | Identification |
 |-------|--------|----------------|----------------|
-| [Paper 1 title] | Draft | [Target journal] | [DiD / IV / RD] |
+| Geopolitical shocks and reallocation between syndicated loans and private credit | Draft | JF / RFS / JFE / JMCB | TBD |
 
 ---
 
