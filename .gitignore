@@ -53,3 +53,6 @@ Thumbs.db
 # Output artifacts — uncomment lines below based on your preference
 # *.rds
 # output/**/*.rds
+
+# Raw data (never commit source data)
+projects/*/data/raw/
